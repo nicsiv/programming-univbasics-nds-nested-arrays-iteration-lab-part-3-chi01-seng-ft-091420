@@ -11,5 +11,5 @@ def join_nested_strings(mixed_data_1)
     end
     row_index += 1
   end
-  final_array.join
+  final_array.join('')
 end
